@@ -9,7 +9,7 @@
 
 <div class="figure" style="text-align: left">
 
-<img src="./Graphical_Abstract.png" alt="GIPMA" width="35%" />
+<img src="./Graphical Abstract.png" alt="GIPMA" width="35%" />
 
 <p class="caption">
 
@@ -44,37 +44,37 @@ result interpretation.
 
 **See the R help page for more details\!\!\!**
 
-1.â€™CreatSampleIdâ€? The purpose of â€œcreatisampleidâ€?is to generate sample
+1."CreatSampleId": The purpose of â€œcreatisampleidâ€ is to generate sample
 labels for distinguishing the peaks to which the sample belong and for
 subsequent statistics of vPC.
 
-2.{â€˜Newton\_DataOrganizeâ€?â€˜Sparky\_DataOrganizeâ€?â€?
-Topspin\_DataOrganizeâ€™}: Organize the layout of CSV data that from
+2.{"Newton\_DataOrganize",â€˜Sparky\_DataOrganize","
+Topspin\_DataOrganize"}: Organize the layout of CSV data that from
 Newton,Sparky or Topspin, and integrate it into a data frame (Global
 peak list)for the followed analysis.
 
-3.â€™PairingCHTolâ€? The initial tolerance ranges of H and C chemical
+3."PairingCHTol": The initial tolerance ranges of H and C chemical
 shifts are estimated to be in a predefined generous tolerance range (It
 is a user defined parameters).
 
-4.â€™SubSamplingâ€? In order to expedite the computational efficiency, a
+4."SubSampling": In order to expedite the computational efficiency, a
 set of representative samples were uniformly subsampled from each sample
 group in case there are too many samples in multiple groups.
 
-5.â€™OptCHTolâ€? Proposed an adaptive method for intelligently selecting
+5."OptCHTol": Proposed an adaptive method for intelligently selecting
 the optimum chemical shift tolerance by parallel hill climbing algorithm
 or partial traversing search in predefined range to maximize the number
 of vPC among samples.
 
-6.â€™DesignatePCâ€? The intensity-ranked peaks in the global peak list were
+6."DesignatePC": The intensity-ranked peaks in the global peak list were
 sequentially designated to specific peak clusters in a self-adaptive
 way.
 
-7.â€™vPCmatrixâ€? The purpose of â€œvPCmatrixâ€?is to generate the regularized
+7."vPCmatrix": The purpose of â€œvPCmatrixâ€ is to generate the regularized
 data matrix of peak intensity (M) with the different spectral features
 and samples as columns and rows respectively.
 
-8.â€™HCmatrixâ€? In order to facilitate the subsequent identification of
+8."HCmatrix": In order to facilitate the subsequent identification of
 differential variables, a matrix containing the accurate chemical shifts
 of vPC was generated.
 
