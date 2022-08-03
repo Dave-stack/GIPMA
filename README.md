@@ -3,13 +3,11 @@
 
 # GIPMA
 
-[![R-CMD-check](https://github.com/Dave-stack/GIPMA/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Dave-stack/GIPMA/actions/workflows/R-CMD-check.yaml)
-
 ## Description
 
 <div class="figure" style="text-align: left">
 
-<img src="./Graphical Abstract.png" alt="GIPMA" width="35%" />
+<img src="./Graphical_Abstract.png" alt="GIPMA" width="35%" />
 
 <p class="caption">
 
