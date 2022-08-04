@@ -46,7 +46,7 @@ result interpretation.
 labels for distinguishing the peaks to which the sample belong and for
 subsequent statistics of vPC.
 
-2.{"Newton\_DataOrganize",‘Sparky\_DataOrganize","
+2.{"Newton\_DataOrganize","Sparky\_DataOrganize","
 Topspin\_DataOrganize"}: Organize the layout of CSV data that from
 Newton,Sparky or Topspin, and integrate it into a data frame (Global
 peak list)for the followed analysis.
@@ -86,7 +86,7 @@ path and some parameters according to your needs\!\!\!**
 *install package*
 
 ``` r
-install.packages("~/GIPMA.zip",repos = NULL)
+install.packages("~/GIPMA_0.3.4.zip",repos = NULL)
 ```
 
 *step1*
@@ -147,7 +147,7 @@ order_data<-DesignatePC(path_5,H_ppm,C_ppm)
 *step7*
 
 ``` r
-path_6<-"E:/Data analysis/GX_SH_ft2"
+path_6<-"E:/Data analysis/SH_ft2"
 path_7<-"E:/Data analysis/Final_data.csv"
 Final_data<-vPCmatrix(path_6,path_7)
 ```
