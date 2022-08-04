@@ -167,5 +167,5 @@ HSQC based metabolomics. 2022.
 
 ## Contact
 
-If you have any questions please open an issue here or contact us at
+If you have any questions, please do not hesitate to contact us at
 <duhuan@stu.cdutcm.edu.cn> or <kaifenghu@cdutcm.edu.cn>
