@@ -68,7 +68,7 @@ of vPC among samples.
 sequentially designated to specific peak clusters in a self-adaptive
 way.
 
-7."vPCmatrix": The purpose of â€œvPCmatrixâ€?is to generate the regularized
+7."vPCmatrix": The purpose of "vPCmatrix" is to generate the regularized
 data matrix of peak intensity (M) with the different spectral features
 and samples as columns and rows respectively.
 
