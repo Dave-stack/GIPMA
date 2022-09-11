@@ -42,7 +42,7 @@ result interpretation.
 
 **See the R help page for more details\!\!\!**
 
-1."CreatSampleId": The purpose of “creatisampleid” is to generate sample
+1."CreatSampleId": The purpose of "CreatSampleId"is to generate sample
 labels for distinguishing the peaks to which the sample belong and for
 subsequent statistics of vPC.
 
@@ -68,7 +68,7 @@ of vPC among samples.
 sequentially designated to specific peak clusters in a self-adaptive
 way.
 
-7."vPCmatrix": The purpose of “vPCmatrix” is to generate the regularized
+7."vPCmatrix": The purpose of “vPCmatrix�?is to generate the regularized
 data matrix of peak intensity (M) with the different spectral features
 and samples as columns and rows respectively.
 
@@ -127,7 +127,7 @@ C_H_tol<-PairingCHTol(H_Ltol,H_Rtol,C_Ltol,C_Rtol)
 
 ``` r
 path_4<-"E:/Data analysis/Sampling_data.csv"
-Sampling_data<-SubSampling(3,path_4)
+Sampling_data<-SubSampling(path_4)
 ```
 
 *step5*
