@@ -163,7 +163,7 @@ C_H_data<-HCmatrix(path_8)
 
 Huan Du, Xiu Gu, Jialuo Chen, Caihong Bai, Xiaohui Duan, Kaifeng Hu.
 GIPMA: Global Intensity-guided Peak Matching and Alignment for 2D 1H-13C
-HSQC based metabolomics. 2022.
+HSQC based metabolomics. Analytical Chemistry, 2023,95(6):3195-3203.
 
 ## Contact
 
